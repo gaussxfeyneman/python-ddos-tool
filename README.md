@@ -1,2 +1,2 @@
-# python-ddos-tool
-A Python script to simulate a DDoS attack for educational purposes
+# A0
+0
